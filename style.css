@@ -1,0 +1,36 @@
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    width: 1195px;
+    margin: 700px;
+}
+     
+.left_sidebar {
+    width: 205px;
+    height: 300px;
+    float: left;
+    background: #FAFABF;
+}
+     
+.content {
+    width: 785px;
+    height: 300px;
+    float: left;
+    background: #E0E0E0;
+}
+     
+.right_sidebar {
+    width: 205px;
+    height: 300px;
+    float: left;
+    background: #DBA0F0;
+}
+     
+.footer {
+    clear: both;
+    background: #A9B4FF;
+    padding: 10px;
+}
